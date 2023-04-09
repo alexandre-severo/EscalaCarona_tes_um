@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EscalaCarona</string>
+    <string name="person_name">Person Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="entrar">Entrar</string>
+    <string name="msgError">User error</string>
+
+
+</resources>

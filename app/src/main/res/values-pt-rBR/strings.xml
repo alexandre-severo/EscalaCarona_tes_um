@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EscalaCarona</string>
+    <string name="person_name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="remember">Lembrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="msgError">Usuário não reconhecido</string>
+</resources>
