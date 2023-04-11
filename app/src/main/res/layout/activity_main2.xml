@@ -11,7 +11,7 @@
         android:layout_width="293dp"
         android:layout_height="141dp"
         android:gravity="center"
-        android:text="Bem-vindo ao Escala Carona! Gerencie a escala do seu grupo fixo de caroneiros com muito mais facilidade"
+        android:text="Bem-vindo ao Escala Carona! Gerencie as viagens do seu grupo fixo de caroneiros com muito mais facilidade. Ajude a melhorar a mobilidade na sua cidade!"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -47,4 +47,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.059" />
+
+    <Button
+        android:id="@+id/botaoCadastrarViagem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar viagem"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.663" />
 </androidx.constraintlayout.widget.ConstraintLayout>

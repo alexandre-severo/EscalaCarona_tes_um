@@ -1,5 +1,6 @@
 package com.example.escalacarona
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.escalacarona.databinding.ActivityMain2Binding
@@ -16,5 +17,15 @@ class MainActivity2 : AppCompatActivity() {
         val nome = intent.getStringExtra("nome")
         usuarioNome.text = nome
         //setContentView(R.layout.activity_tela2)
+
+        val btCadastrarMotorista = binding.botaoCadastrarViagem
+
+        btCadastrarMotorista.setOnClickListener{
+            var intenDois = Intent(this, MainActivity3::class.java)
+
+            startActivity(intenDois)
+        }
+
+
     }
 }
