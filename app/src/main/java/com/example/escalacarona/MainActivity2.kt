@@ -26,6 +26,13 @@ class MainActivity2 : AppCompatActivity() {
             startActivity(intenDois)
         }
 
+        val btListarViagens = binding.buttonListarViagem
+
+        btListarViagens.setOnClickListener{
+            var telaQuatro = Intent(this, MainActivity4::class.java)
+
+            startActivity(telaQuatro)
+        }
 
     }
 }

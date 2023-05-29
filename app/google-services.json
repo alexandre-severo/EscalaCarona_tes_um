@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472540816577",
+    "firebase_url": "https://escalacarona-default-rtdb.firebaseio.com",
+    "project_id": "escalacarona",
+    "storage_bucket": "escalacarona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472540816577:android:aad98a604a24f9cfeaa040",
+        "android_client_info": {
+          "package_name": "com.example.escalacarona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472540816577-o2ik25v8jegn94d8jj26fvflv4o6kpi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApV8nd1tWLWzgdQs-Do0z9bVMqyyBMzps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472540816577-o2ik25v8jegn94d8jj26fvflv4o6kpi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
